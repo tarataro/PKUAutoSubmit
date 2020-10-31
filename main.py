@@ -12,7 +12,7 @@ import copy
 import sys
 import os
 
-TIMEOUT = 80
+TIMEOUT = 1000
 TIMESLP = 3
 
 
